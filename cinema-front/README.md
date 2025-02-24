@@ -12,6 +12,7 @@ Si aún no tienes el proyecto en tu máquina, clónalo con:
 ```sh
 git clone https://github.com/JulianP-24/cine-reservation-front.git
 cd cinema-front
+```
 
 ### Para ejecutarlo
 NOTA: Se necesita tener la version de node instalada, debe ser mayor a la version 16
